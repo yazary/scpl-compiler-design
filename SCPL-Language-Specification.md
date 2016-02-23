@@ -1,8 +1,17 @@
 # SCPL (Simplified C Programming Language) - Language Specification
 
 ## Introduction
+SCPL is a simplified version of C Programming language, which has almost all the imporatant consrtucts of C Programming. This language specification has been defined for the Compiler design project.
 
 ## Main function.
+Executions of a SCPL starts with main function. The way to define it is.
+
+```C
+main (){
+  <statements>;
+}
+
+```
 
 ## Data Types
 
@@ -24,6 +33,8 @@
 ### Do-While Loop
 
 ## Functions
+
+## Input-output functions
 
 ## Structures *
 
